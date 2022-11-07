@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 72: Line is indented, but the preceding with statement statement does not expect a block. Please check this line's indentation.
+    show malegenat at right
+    ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Mon Nov  7 20:51:27 2022
